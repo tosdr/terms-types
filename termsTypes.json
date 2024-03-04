@@ -209,6 +209,30 @@
       "object": "selling through a monetary transaction goods or services to buyers other than the marketplace itself"
     }
   },
+  "Frequently Asked Questions": {
+    "commitment": {
+      "writer": "service provider",
+      "audience": "anyone",
+      "object": "frequently asked questions about the service, its policies"
+    }
+  },
+  "Merged": {
+    "commitment": {
+      "writer": "tosdr user",
+      "audience": "anyone",
+      "object": "documents that have been merged"
+    }
+  },
+  "Charter": {
+    "writer": "service provider",
+    "audience": "anyone",
+    "object": "charters written by the service"
+  },
+  "Coporate Social Responsibility": {
+    "writer": "service provider",
+    "audience": "anyone",
+    "object": "practices integrating social, environmental and profit-related considerations"
+  },
   "Ranking Parameters Description": {
     "commitment": {
       "writer": "search engine or intermediation service provider",
