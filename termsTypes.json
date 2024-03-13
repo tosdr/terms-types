@@ -233,6 +233,46 @@
     "audience": "anyone",
     "object": "practices integrating social, environmental and profit-related considerations"
   },
+  "Social Media Policy": {
+    "writer": "service provider",
+    "audience": "employees of the service",
+    "object": "service provider guidance on how employees should act on social media"
+  },
+  "Uniform Disclosure": {
+    "writer": "service provider",
+    "audience": "end user",
+    "object": "used to disclose certain information to end users"
+  },
+  "Affiliate Disclosure": {
+    "writer": "service provider",
+    "audience": "end user",
+    "object": "statement informing users that companies compensate you for promoting, reviewing, or recommending their products or services"
+  },
+  "Safety Guidelines": {
+    "writer": "service provider",
+    "audience": "end user",
+    "object": "service provider protocols to ensure online safety"
+  },
+  "Telephone Communication Guidelines": {
+    "writer": "service provider",
+    "audience": "anyone",
+    "object": "restrictions on telephone solicitations (i.e. telemarketing) and the use of automated phone equipment"
+  },
+  "Records Keeping Policy": {
+    "writer": "service provider",
+    "audience": "end user",
+    "object": "policies in handling of user records in the event of bankruptcy or data transfer"
+  },
+  "Service Level Agreement": {
+    "writer": "service provider",
+    "audience": "end user",
+    "object": "outlines a commitment between a service provider and a client"
+  },
+  "Legal Information": {
+    "writer": "service provider",
+    "audience": "anyone",
+    "object": "documentation covering miscellaneous policies, notices, and disclaimers"
+  },
   "Ranking Parameters Description": {
     "commitment": {
       "writer": "search engine or intermediation service provider",
