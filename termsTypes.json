@@ -223,11 +223,6 @@
       "object": "documents that have been merged"
     }
   },
-  "Charter": {
-    "writer": "service provider",
-    "audience": "anyone",
-    "object": "charters written by the service"
-  },
   "Coporate Social Responsibility": {
     "writer": "service provider",
     "audience": "anyone",
@@ -272,6 +267,31 @@
     "writer": "service provider",
     "audience": "anyone",
     "object": "documentation covering miscellaneous policies, notices, and disclaimers"
+  },
+  "Spam": {
+    "writer": "tosdr user",
+    "audience": "anyone",
+    "object": "spam submitted as documents by bad-faith users on ToS;DR"
+  },
+  "Policy": {
+    "writer":"service provider",
+    "audience": "anyone",
+    "object": "generic policies not included in privacy policy coverage"
+  },
+  "Other": {
+    "writer": "service provider",
+    "audience": "anyone",
+    "object": "various documents submitted by ToS;DR users"
+  },
+  "About": {
+    "writer": "service provider",
+    "audience": "anyone",
+    "object": "generic information pages"
+  },
+  "Miscellaneous Agreement": {
+    "writer": "service provider",
+    "audience": "anyone",
+    "object": "various agreements published by the service"
   },
   "Ranking Parameters Description": {
     "commitment": {
