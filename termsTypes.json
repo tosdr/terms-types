@@ -368,5 +368,10 @@
     "references": {
       "Open Terms Archive discussion": "https://github.com/OpenTermsArchive/engine/discussions/923"
     }
+  },
+  "Other": {
+     "writer": "service provider",
+     "audience": "anyone",
+     "object": "various documents submitted by ToS;DR users"
   }
 }
