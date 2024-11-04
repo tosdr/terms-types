@@ -1,0 +1,59 @@
+title: "<suggested new type name>"
+labels: ["New type"]
+body:
+- type: markdown
+  attributes:
+    value: | 
+      ## Thank you for suggesting a new type!
+
+      **Terms types** enable discovering terms and comparing them across services. Once a type is in use, it is there to stay. It is therefore critical to ensure that each type is well defined and has actual uses. The questions below will help define the type and enable the Open Terms Archive community to discuss its relevance to the wider ecosystem.
+
+      ### If no existing [implemented or suggested type](https://github.com/OpenTermsArchive/terms-types/discussions) matches your suggestion, fill in the fields below to start a discussion!
+      
+      #### Title
+
+      The `<suggested new type name>` should be the most commonly used and most internationally understandable for this type. It doesn't have to match the service-provided name. Use tools such as Google Trends, Linguee and thesaurus to find the name that balances out best generality, precision and multilingualism.
+
+      > For example, the “Imprint” type is [called this way](https://github.com/OpenTermsArchive/engine/issues/801) as a balance between the French “mentions légales”, the German “impressum”, and usage statistics.
+- type: textarea
+  id: examples
+  attributes:
+    label: What are some documents containing these terms?
+    description: |
+      Examples of documents that contain terms of the suggested type, in the form `Service name - URL - Document title - Jurisdiction`, one per line. Provide the URL address at which the document can be accessed; the title of the document provided at this URL; and, if possible, the jurisdiction to which the document refers.
+    placeholder: | 
+      WhatsApp - https://www.whatsapp.com/legal/privacy-policy-eea?lang=en - Privacy Policy - European Economic Area
+  validations:
+    required: true
+- type: textarea
+  id: alternative-type-names
+  attributes:
+    label: What could be some alternative names for this type?
+    description: Known synonyms or other ideas you have for this same terms type.
+    placeholder: | 
+      Business Users Privacy Policy
+      Commercial Privacy Policy
+- type: input
+  id: audience
+  attributes:
+    label: Whose rights and duties are defined in these terms?
+    description: The entities targeted by these terms.
+    placeholder: business user
+- type: input
+  id: object
+  attributes:
+    label: What is the object of commitment in these terms?
+    description: The information handling or interaction that is constrained by the associated terms.
+    placeholder: personal data of business users
+- type: textarea
+  id: references
+  attributes:
+    label: Are there any relevant references for this type?
+    description: | 
+      Related resources such as legal definitions, or the discussions that led to the choice of this name.
+    placeholder: "Digital Service Act: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R2065"
+- type: textarea
+  id: comments
+  attributes:
+    label: Do you have any additional comments or information?
+    description: That may help to understand the purpose of this type.
